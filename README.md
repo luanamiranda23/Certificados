@@ -17,3 +17,7 @@
 🎓🎓 Curso CSS3 Programação Web (7 Horas) YOUTUBE.
 
 🎓🎓 Curso Javascript Programação Web (6 Horas) YOUTUBE.
+
+🎓🎓 Curso Laravel ( Matheus Battisti-Hora de Codar) YOUTUBE.
+
+🎓🎓 Curso Laravel ( Node Studio Treinamentos) YOUTUBE.
